@@ -8,6 +8,10 @@ Program Description:
 Working through the tutorial on provided in - http://earthpy.org/pandas-basics.html
 Some of the code was ran through the console so that outputs could be seen.
 In this script, we are using pandas and other modules to analyze time series. 
+
+Reference Sites: 
+    https://www.earthdatascience.org/courses/use-data-open-source-python/use-time-series-data-in-python/date-time-types-in-pandas-python/resample-time-series-data-pandas-python/
+    https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.date_range.html
 """
 
 # module import 
